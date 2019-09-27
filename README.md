@@ -12,3 +12,4 @@ json
 # How do i make the bot?
 You can go to our files and copy & paste the bots commands.
 Or you can join our Discord Support server!
+# https://discord.gg/jDNJDSU 《《 Support Server
